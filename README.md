@@ -24,7 +24,7 @@
   <a href = "mailto:caiolimapires61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-de-lima-pires-37321b23b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPires/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPire/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 ![mimikkyuu-final_orig (1)](https://user-images.githubusercontent.com/110869372/191116006-80f23af6-8c86-4cd8-9e92-c881d27c49ce.gif)

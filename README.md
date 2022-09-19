@@ -1,4 +1,4 @@
-### "Hello word" sou o Caio 👻╰(*°▽°*)╯
+### "Hello world" sou o Caio 👻╰(*°▽°*)╯
 
 - 🔭 Não estou trabalhando no momento 💀
 - 🌱 Estudando C#(Análise e desenvolvimento de sistemas)

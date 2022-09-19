@@ -1,3 +1,4 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 ### "Hello world" sou o Caio 👻╰(*°▽°*)╯
 
 - 🔭 Não estou trabalhando no momento 💀
@@ -7,7 +8,7 @@
 
   <a href="https://github.com/CaioDeLimaPires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDeLimaPires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeLimaPires&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeLimaPires&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

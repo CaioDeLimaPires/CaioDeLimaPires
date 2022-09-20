@@ -43,9 +43,9 @@
  ## ⚙️ &nbsp;GitHub Analytics
  
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDeLimaPires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="100em" src="https://github-readme-stats.vercel.app/api?username=CaioDeLimaPires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  <img align="right" height="250em" src="https://user-images.githubusercontent.com/110869372/191302600-88f37d1c-bafe-494f-ae66-e3767fd6c663.gif"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeLimaPires&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeLimaPires&layout=compact&langs_count=7&theme=synthwave"/>
  
  
  

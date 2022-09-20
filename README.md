@@ -1,4 +1,4 @@
-<img align="right" height="5600em" src="https://raw.githubusercontent.com/gist/CaioDeLimaPires/4e2ac663f28e60c7b91928c0cf834208/raw/bea9779df4e04a3b3c6a7d9173ca4a459f5504ab/pokemon.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/CaioDeLimaPires/4e2ac663f28e60c7b91928c0cf834208/raw/bea9779df4e04a3b3c6a7d9173ca4a459f5504ab/pokemon.svg"/>
 ### "Hello world" sou o Caio 👻╰(*°▽°*)╯
 
 - 🔭 Não estou trabalhando no momento 💀

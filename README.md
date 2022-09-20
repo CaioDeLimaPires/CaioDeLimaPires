@@ -59,7 +59,7 @@
 </a>
 </p>
 
- <h1 align="left">🐈‍⬛🐈‍⬛ Minhas Contribuções 🐈‍⬛🐈‍⬛</h1>
+ <h1 align="left">🎃👻 Minhas Contribuções 👻🎃</h1>
  
   ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPire/blob/output/github-contribution-grid-snake.svg)
  

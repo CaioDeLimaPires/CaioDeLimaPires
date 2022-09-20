@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/CaioDeLimaPires/4e2ac663f28e60c7b91928c0cf834208/raw/bea9779df4e04a3b3c6a7d9173ca4a459f5504ab/pokemon.svg"/>
 ### "Hello world" sou o Caio 👻╰(*°▽°*)╯
 
 - 🔭 Não estou trabalhando no momento 💀
@@ -13,8 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="caio-gif" height="110" style="border-radius:50px;" src="https://discord.com/channels/1021533589252362320/1021533591596974092/1021533646643023982/.gif">
-</div>
+  </div>
   
   ##
   
@@ -28,4 +27,3 @@
   ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPire/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![mimikkyuu-final_orig (1)](https://user-images.githubusercontent.com/110869372/191116006-80f23af6-8c86-4cd8-9e92-c881d27c49ce.gif)

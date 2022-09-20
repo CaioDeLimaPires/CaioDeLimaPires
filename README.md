@@ -42,9 +42,14 @@
  
  ## ⚙️ &nbsp;GitHub Analytics
  
- <p align="left">
+ 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDeLimaPires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDeLimaPires&layout=compact&langs_count=7&theme=synthwave"/>
+ 
+ <img align="right" height="250em" src="https://user-images.githubusercontent.com/110869372/191302600-88f37d1c-bafe-494f-ae66-e3767fd6c663.gif"/>
+ 
+
+
 </p>
 
   
@@ -56,11 +61,15 @@
 
  
 
-</a>
-</p>
+ 
 
  <h1 align="left">🎃👻 Minhas Contribuções 👻🎃</h1>
  
-  ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPire/blob/output/github-contribution-grid-snake.svg)
+
+  
  
-</div>
+ ![Snake animation](https://github.com/CaioDeLimaPires/CaioDeLimaPire/blob/output/github-contribution-grid-snake.svg)
+ 
+
+
+

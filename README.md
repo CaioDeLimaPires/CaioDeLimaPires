@@ -4,7 +4,6 @@
            ⠀⠀⠀⠀###👻🎃👻🎃👻🎃👻🎃👻###
         
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
 🕸️ 💼 Não estou trabalhando no momento 💀
 
 🕸️ 🌱 Estudante de ADS(aprendendo C#)

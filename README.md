@@ -1,9 +1,11 @@
 <img align="right" height="560em" src="https://raw.githubusercontent.com/gist/CaioDeLimaPires/0901ed63b733eefa62cc1a0aac045f9f/raw/f38c3bc4d8437afb48d6b6ae2663ef673e75f090/Template.svg"/>
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio lima ╰(*°▽°*)╯</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaioDeLimaPires&color=orange" alt="Profile views" /> </p>   
-           ⠀⠀⠀⠀###👻🎃👻🎃👻🎃👻🎃👻###
+           ⠀⠀⠀
+           ⠀###👻🎃👻🎃👻🎃👻🎃👻###
         
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 🕸️ 💼 Não estou trabalhando no momento 💀
 
 🕸️ 🌱 Estudante de ADS(aprendendo C#)

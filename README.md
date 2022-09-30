@@ -7,7 +7,7 @@
 
 🕸️ 💼 Não estou trabalhando no momento 💀
 
-🕸️ 🌱 Estudando C#(Análise e desenvolvimento de sistemas)
+🕸️ 🌱 Estudando Análise e desenvolvimento de sistemas/C#
 
 🕸️ 📫 Contate-me pelo email: caiolimapires61@gmail.com 
 
